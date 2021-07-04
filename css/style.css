@@ -9,6 +9,9 @@ body {
   color: orange;
 }
 section {
+  margin-bottom: 150px;
+}
+.topsection {
   display: flex;
 }
 .left1 {
@@ -17,6 +20,9 @@ section {
 .middle1 {
   width: 40%;
   padding-left: 2%;
+}
+.topmidp {
+  text-align: justify;
 }
 .right1 {
   width: 50%;
@@ -30,4 +36,32 @@ section {
   background-image: linear-gradient(orange, tomato);
   padding: 15px 30px;
   border-radius: 5px;
+}
+
+.middlesection {
+  display: flex;
+}
+
+.left2 {
+  width: 40%;
+}
+.middle2 {
+  width: 50%;
+  padding: 3%;
+}
+.right2 {
+  width: 10%;
+}
+.right2 img {
+  width: 100%;
+}
+
+.midcenp {
+  text-align: justify;
+}
+.left2 img {
+  width: 100%;
+}
+.h1part2 {
+  font-size: 50px;
 }
