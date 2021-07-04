@@ -1,0 +1,33 @@
+body {
+  font-family: "Otomanopee One", sans-serif;
+  margin: 0px;
+}
+.h1part1 {
+  font-size: 50px;
+}
+#name_color {
+  color: orange;
+}
+section {
+  display: flex;
+}
+.left1 {
+  width: 10%;
+}
+.middle1 {
+  width: 40%;
+  padding-left: 2%;
+}
+.right1 {
+  width: 50%;
+}
+.right1 img {
+  width: 100%;
+}
+.hireme_button {
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(orange, tomato);
+  padding: 15px 30px;
+  border-radius: 5px;
+}
